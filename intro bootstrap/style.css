@@ -1,0 +1,11 @@
+.container{
+    background-color: beige;
+}
+
+.container-fluid{
+   background-color: darkgrey;
+}
+
+body{
+    text-align: center;
+}

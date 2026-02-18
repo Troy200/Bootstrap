@@ -1,0 +1,9 @@
+#wai{
+    background-color: darkgreen;
+}
+
+#wai img{
+    width: 600px;
+    height: 400px;
+border:solid 10px ;
+}
