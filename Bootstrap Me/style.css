@@ -17,3 +17,13 @@ border:solid 10px ;
 #toobig{
     height: 400px;
 }
+
+#imgbook{
+    height: 275px;
+    width: 200px;
+  }
+  #modalbody{
+    background-color: aliceblue;
+  }
+
+ 
