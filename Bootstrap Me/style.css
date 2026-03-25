@@ -26,4 +26,6 @@ border:solid 10px ;
     background-color: aliceblue;
   }
 
- 
+ .booktext{
+    font-family: "Oswald", sans-serif;
+ }
